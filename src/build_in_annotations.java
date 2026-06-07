@@ -1,7 +1,5 @@
-import com.sun.jdi.InterfaceType;
-
 import java.util.ArrayList;
-public class Main {       //build-in-annotions
+public class build_in_annotations {       //build-in-annotions
     public static void main(String[] args) {
         //1 --OVERRIDE
         class animal {
